@@ -20,7 +20,7 @@ public class TableReaper {
         this.db = db;
     }
 
-    public static void main(String[] args) {
+    public static void run(String[] args) {
         if (args.length < 1) {
             System.err.print("Usage: java DeleteTables <table1> <table2> ... <tableN>\n");
             System.exit(1);

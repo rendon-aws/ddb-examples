@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: blog.letmethink.TableReaper
+Main-Class: blog.letmethink.Main
 
